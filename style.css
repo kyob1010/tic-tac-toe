@@ -1,0 +1,15 @@
+.slot {
+    width: 100px;
+    height: 100px;
+    background: lightgray;
+}
+
+.player0 {
+    content: 'O';
+    background: red;
+}
+
+.player1 {
+    content: 'X';
+    background: blue;
+}
